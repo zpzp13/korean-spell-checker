@@ -1,0 +1,27 @@
+# Build outputs
+main.js
+*.js.map
+
+# Node
+node_modules/
+package-lock.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test vault
+test-vault/
+.obsidian/
+
+# Logs
+*.log
+npm-debug.log*
