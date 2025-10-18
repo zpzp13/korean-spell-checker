@@ -93,13 +93,6 @@ AI 검증 기능을 사용하려면 다음 API 키가 필요합니다:
 
 MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
 
-## 감사의 말
-
-- [DAUM 맞춤법 검사기](https://dic.daum.net/grammar_checker.do) - 기본 맞춤법 검사 API
-- [Google Gemini](https://ai.google.dev/) - AI 검증 기능
-- [ETRI 언어 분석 기술](https://aiopen.etri.re.kr/) - 형태소 분석
-- [국립국어원 표준국어대사전](https://stdict.korean.go.kr/) - 어휘 정보
-
 ## 버그 제보 & 기능 제안
 
 [GitHub Issues](https://github.com/zpzp13/korean-spell-checker/issues)에서 버그를 제보하거나 새로운 기능을 제안해주세요.
